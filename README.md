@@ -1,5 +1,9 @@
-### Hi there 👋
+### Fáilte romhat! 👋
 
+I'm an Irish programmer, trained in physics with a focus on materials and simulation.
+
+- 🔭 I’m currently working on C++ & Fortran simulations, with some Python scripting on the side.
+- 🌱 I’m currently learning some Rust.
 <!--
 **shellofnuts/shellofnuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
